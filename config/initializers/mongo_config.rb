@@ -1,0 +1,1 @@
+MongoMapper.database= "test_app-#{Rails.env}"
